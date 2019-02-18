@@ -1,0 +1,6 @@
+,
+Country_or_area,Contains the names of each country that is included in the Dataset. This Includes Continents as a whole which will be moved to a new Dataset. Included are all the countries found on earth.
+Year,This states the year that the data was collected. This ranges from 1961 to 2007. This data will be dummified to be able to show the change in crop production across the different years.
+Unit,"This states the unit of measurement that the crop was collected in. The measurements are in Hectares, Tonnes, Hectograms per Hectares."
+Value,This states the quantity of the crop harvested in the various states of Unit.
+Category,This states the type of crop harvested. This ranges from Agave fibres to Buckwheat and tubers.

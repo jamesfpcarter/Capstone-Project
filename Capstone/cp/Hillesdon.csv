@@ -1,0 +1,9 @@
+,
+Year,This states the year of which the samples were taken. This ranges from 2006-2011
+Treatment,The treatment states the level of Organic treatment that the field has been subject to. This is a range of 1 (Cross-Compliance) to 3 (Extra ELS)
+FieldName,The name of the field in the region of the UK
+FieldArea,The area in Hectares of the Field
+Crop,The type of crop harvested from the field which is a variety of grains and cereals.
+Yield,The amount of crop per hectare harvested.
+tonnes,The number of tonnes of crop per hectare harvested.
+Ratio,The ratio of crop harvested to tonne harvested per hectare.
