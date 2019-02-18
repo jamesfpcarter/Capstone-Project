@@ -1,0 +1,6 @@
+,
+Geo,The country of which the crop was harvested from. This includes every country from Europe including some regions from each country.
+Time,The year of which the crop was harvested to see the change in crop harvest. Ranges from 2009 - 2018.
+Crops,"This is one of three different ‘crops’; Grassland, Cereals and Dry pulses."
+Value,The amount of the crop harvested in the type.
+Type,The type in which the value was harvested. This is done in Hectares.

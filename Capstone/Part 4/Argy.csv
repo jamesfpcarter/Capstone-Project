@@ -1,0 +1,8 @@
+,
+Province,The location at which the crop is sown and harvested from.
+Cultivated,The type of crop harvested which ranges from cereals and grains to garlic and maiz.
+Date,The years harvested from 1969 - 2016
+Hectares_Sown,"The Number of hectares of the crop that were sown. This is to test to see which areas were the most successful in producing the crop,"
+Hectares_Harvested,The number of hectares of the crop successfully harvested from the region.
+Tonnes,Number of tonnes obtained from harvesting the crop.
+Harvest_performance,The success rate of the harvesting of the desired crop.
